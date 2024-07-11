@@ -11,6 +11,8 @@ SO THAT my website can handle large amounts of unstructured data
 
 ## Authors
 
+* **Austin Godfrey** - [austintyrome](https://github.com/austintyrome)
+
 ## Demo
 
 ## Tools
